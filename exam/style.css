@@ -1,0 +1,163 @@
+.title-xl {
+    font-size: 56px;
+    line-height: 60px;
+    font-weight: 700;
+}
+.title-m {
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 31px;
+}
+.title-l {
+     font-size: 40px;
+     line-height: 44px;
+     font-weight: 700;
+}
+.title-s {
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 26px;
+}
+a, button {
+    text-decoration: none;
+    cursor: pointer;
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto';
+    font-size: 16px;
+}
+p {
+    margin: 0;
+    padding: 0;
+}
+nav {
+    background-color:rgba(0, 0, 0, 0.8);
+    color: #FFF;
+}
+.nav-items {
+    display: flex;
+    gap: 42px;
+    padding: 17px 0;
+    justify-content: center;
+    font-weight: 300;
+}
+.nav-logo {
+    width: 13px;
+    height: 16px;
+}
+.ip14 {
+    text-align: center;
+    background-color: rgba(251, 251, 253, 1);
+}
+.ip14-title {
+    margin-top: 51px;
+    color: rgba(29, 29, 31, 1);
+}
+.ip14-txt {
+    color: rgba(29, 29, 31, 1);
+}
+.learnmore-buy {
+    display: flex;
+    gap: 40px;
+    color: rgba(0, 102, 204, 1);
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 29px;
+    justify-content: center;
+}
+.learnmore-buy-mini {
+    display: flex;
+    gap: 40px;
+    color: rgba(0, 102, 204, 1);
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 29px;
+    justify-content: center;
+}
+.ip14-img {
+    padding-bottom: 12px;
+}
+.ip14-pro {
+    text-align: center;
+    background-color: #000;
+}
+.ip14-pro-title {
+    color: rgba(245, 245, 247, 1);
+    padding-top: 51px;
+}
+.ip14-pro-txt {
+    color: rgba(245, 245, 247, 1);
+}
+.watch {
+    text-align: center;
+    background-color: rgba(251, 251, 253, 1);
+}
+.watch-title {
+    padding-top: 76px;
+    padding-bottom: 13px;
+}
+.box {
+    width: 50%;
+}
+.product-column1 {
+    display: flex;
+    gap: 15px;
+    padding: 12px 15px 0 15px;
+}
+.product-column1-left {
+    background-color: #000;
+    text-align: center;
+    margin-top: 11px;
+}
+.watch8-title {
+    padding-top: 59px;
+}
+.watch8-txt {
+    color: rgba(245, 245, 247, 1);
+}
+.product-column1-right {
+    background-color: #000;
+    text-align: center;
+    color: rgba(245, 245, 247, 1);
+    margin-top: 11px;
+}
+.airpod-img {
+    margin-top: 20px;
+}
+.airpods-title {
+    padding-top: 51px;
+}
+.product-column2 {
+    display: flex;
+    gap: 15px;
+    padding: 12px 15px 0 15px;
+    margin-top: 11px;
+}
+.product-column2-left { 
+    background-color: rgba(251, 251, 253, 1);
+    text-align: center;
+}
+.product-column2-right {
+    background-color: rgba(251, 251, 253, 1);
+    text-align: center;
+}
+.fitness-bottom {
+    font-size: 17px;
+    color: rgba(134, 134, 139, 1);
+    font-weight: 400;
+}
+.product-column3 {
+    display: flex;
+    gap: 15px;
+    padding: 12px 15px 0 15px;
+    margin-top: 11px;
+}
+.product-column3-left {
+    text-align: center;
+    background-color: rgba(251, 251, 253, 1);
+}
+.mac-title {
+    padding-top: 51px;
+}
